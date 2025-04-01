@@ -1,7 +1,7 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
-import Products from "./pages/Produc";
+import Products from "./pages/Products";
 
 
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
   
   return (
     <div>
-      <h1>hello world</h1>
+      <h1>salom dunyo</h1>
       <BrowserRouter>
        
         <Routes>
